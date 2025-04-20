@@ -1,0 +1,13 @@
+.
+├── main.go
+├── internal/
+│   ├── handlers/
+│   │   └── handlers.go
+│   ├── models/
+│   │   └── models.go
+│   └── services/
+│       └── services.go
+├── pkg/
+│   └── utils/
+│       └── utils.go
+└── go.mod
