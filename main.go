@@ -12,6 +12,7 @@ import (
 func main() {
 	// Create default gin engine
 	r := gin.Default()
+	gin.SetMode(gin.ReleaseMode)
 
 	// Set the log output to a file
 	logFile, err := os.OpenFile("app.log", os.O_CREATE|os.O_WRONLY|os.O_APPEND, 0666)
