@@ -1,0 +1,13 @@
+2025/04/20 15:20:57 Failed to connect to CockroachDB:cannot parse `mkdir -p $env:appdata\postgresql\; Invoke-WebRequest -Uri https://cockroachlabs.cloud/clusters/4912e37b-f4b6-4f64-a957-9586696914b8/cert -OutFile $env:appdata\postgresql\root.crt`: failed to parse as DSN (invalid dsn)
+2025/04/20 15:22:21 Failed to connect to CockroachDB:cannot parse `https://cockroachlabs.cloud/clusters/4912e37b-f4b6-4f64-a957-9586696914b8/cert -OutFile $env:appdata\postgresql\root.crt`: failed to parse as DSN (invalid dsn)
+2025/04/20 15:24:34 Failed to connect to MongoDB:parse "mongodb+srv://piyush:<db_password>@cluster0.gjp6pft.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0": net/url: invalid userinfo
+2025/04/20 15:26:15 Failed to connect to MongoDB:parse "mongodb+srv://piyush:<db_password>@cluster0.gjp6pft.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0": net/url: invalid userinfo
+2025/04/20 15:30:05 Failed to connect to MongoDB:parse "mongodb+srv://piyush:<db_password>@cluster0.gjp6pft.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0": net/url: invalid userinfo
+2025/04/20 16:11:22 Database connections initialized successfully
+2025/04/20 16:14:52 Database connections initialized successfully
+2025/04/20 16:33:13 Database connections initialized successfully
+2025/04/20 16:38:18 Database connections initialized successfully
+2025/04/20 16:38:27 [{   {0 0 <nil>} {0 0 <nil>} {0 0 <nil>} }]
+2025/04/21 12:18:35 Database connections initialized successfully
+2025/04/21 12:18:35 Database connection initialized successfully
+2025/04/21 12:20:20 Successfully retrieved 2 users.
